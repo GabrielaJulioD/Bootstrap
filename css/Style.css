@@ -1,0 +1,46 @@
+
+/* aplicando estilo a una etiqueta */
+ body{
+
+    background-color:rgb(223, 205, 194);
+ }
+/*aplicando estilo a un elemento tomando un id*/
+#titulo1{
+    
+    text-align: center;
+    color: #1b0101;
+    font-size: 50px;
+ }
+        
+/*aplicando estilo a un elemento tomando una clase*/
+ .parráfo1{
+     padding: 20px;
+     text-align: justify;
+ }
+
+        
+.conten1 {
+    width: 49%;
+    display: inline-block;
+}
+
+.conten2 {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    background-color: lightblue;
+}
+
+.tabladatos {
+    font-size: 25px;
+}
+
+.footer {
+    text-align: center;
+    color: #5f5e5d;
+    line-height: 24px;
+    font-size: 13px;
+    margin-top: 40px;
+}
+
